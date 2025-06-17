@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Acme Business Co.</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <h1>Acme Business Co.</h1>
+    <nav>
+      <ul>
+        <li><a href="#mission">Mission</a></li>
+        <li><a href="#services">Programs</a></li>
+        <li><a href="#team">Team</a></li>
+        <li><a href="#newsletter">Newsletter</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="hero">
+    <img src="https://source.unsplash.com/1600x500/?office,team" alt="Office team">
+  </section>
+
+  <section id="mission">
+    <h2>Our Mission</h2>
+    <p>At Acme Business Co., we strive to deliver innovative solutions that empower businesses to thrive in a competitive marketplace.</p>
+  </section>
+
+  <section id="goals">
+    <h2>Current Goals</h2>
+    <ul>
+      <li>Launch our new digital consulting service</li>
+      <li>Expand to three new regional markets</li>
+      <li>Hire 10 more experts</li>
+    </ul>
+  </section>
+
+  <section id="services">
+    <h2>Programs & Services</h2>
+    <div class="service-cards">
+      <div class="card">
+        <img src="https://source.unsplash.com/400x250/?consulting" alt="Consulting service">
+        <h3>Business Consulting</h3>
+        <p>One-on-one strategy and planning sessions for growth and scalability.</p>
+      </div>
+      <div class="card">
+        <img src="https://source.unsplash.com/400x250/?training" alt="Training service">
+        <h3>Workshops & Training</h3>
+        <p>Hands-on workshops on leadership, tech tools, and efficient workflows.</p>
+      </div>
+      <div class="card">
+        <img src="https://source.unsplash.com/400x250/?support" alt="Support service">
+        <h3>Ongoing Support</h3>
+        <p>Continual support through monthly check-ins and performance tracking.</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="newsletter">
+    <h2>Stay In The Loop</h2>
+    <p>Get updates straight to your inbox:</p>
+    <form>
+      <input type="email" placeholder="you@example.com">
+      <button type="submit">Subscribe</button>
+    </form>
+  </section>
+
+  <section id="team">
+    <h2>Meet Our Team</h2>
+    <div class="team-cards">
+      <div class="card">
+        <img src="https://source.unsplash.com/200x200/?person,smile" alt="Team member">
+        <h4>Alex Johnson</h4>
+        <p>Founder & CEO</p>
+      </div>
+      <div class="card">
+        <img src="https://source.unsplash.com/200x200/?person,portrait" alt="Team member">
+        <h4>Samantha Lee</h4>
+        <p>Head of Operations</p>
+      </div>
+      <div class="card">
+        <img src="https://source.unsplash.com/200x200/?person,worker" alt="Team member">
+        <h4>Michael Patel</h4>
+        <p>Lead Consultant</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="resources">
+    <h2>Resources</h2>
+    <ul>
+      <li><a href="#">FAQs</a></li>
+      <li><a href="#">Customer Feedback</a></li>
+      <li><a href="#">Policies & Info</a></li>
+    </ul>
+  </section>
+
+  <footer id="contact">
+    <h2>Contact Us</h2>
+    <p>Address: 4567 Commerce Blvd, Omaha, NE 68102</p>
+    <p>Phone: (402) 555‑1234</p>
+    <p>Email: hello@acmebusinessco.com</p>
+  </footer>
+
+</body>
+</html>
