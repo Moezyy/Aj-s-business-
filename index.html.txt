@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>AJ's Business</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  <header>
+    <h1>AJ's Business</h1>
+    <p>Professional Solutions for Your Needs</p>
+  </header>
+
+  <section class="about">
+    <h2>About Us</h2>
+    <p>We provide top-tier services to elevate your business. Our team of professionals is committed to delivering results you can trust.</p>
+    <img src="https://source.unsplash.com/800x400/?office,business" alt="Business team"/>
+  </section>
+
+  <section class="services">
+    <h2>Our Services</h2>
+    <ul>
+      <li>Consulting</li>
+      <li>Marketing</li>
+      <li>Branding</li>
+      <li>Design</li>
+    </ul>
+  </section>
+
+  <section class="contact">
+    <h2>Contact Us</h2>
+    <p>Email: ajbusiness@example.com</p>
+    <p>Phone: (555) 123-4567</p>
+    <p>Location: Omaha, NE</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 AJ's Business. All rights reserved.</p>
+  </footer>
+</body>
+</html>
